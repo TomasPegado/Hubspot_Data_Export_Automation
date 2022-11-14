@@ -7,3 +7,6 @@ I developed the code for Pacifica Continental so it could automate the export of
 ## API Documentation
 - https://developers.hubspot.com/docs/api/overview
 - https://github.com/HubSpot/hubspot-api-python
+
+## API Versions
+The file with version 3 is the best one, since it contains only the latest API version of Hubspot
